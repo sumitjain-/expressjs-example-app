@@ -1,0 +1,19 @@
+{
+  "name": "expressjs-example-app",
+  "version": "1.0.0",
+  "description": "This is an example app to try out some of the features of ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sumitjain-/expressjs-example-app.git"
+  },
+  "author": "Sumit Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitjain-/expressjs-example-app/issues"
+  },
+  "homepage": "https://github.com/sumitjain-/expressjs-example-app#readme"
+}
